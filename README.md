@@ -1,6 +1,6 @@
 # TyperChallenge
 
-Simple Type Racing Application using JOption Panes!
+Type Racing Application using JOption Panes!
 Uses File I/O
 Random Function
 Arrays
